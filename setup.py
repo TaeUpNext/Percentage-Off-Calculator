@@ -1,6 +1,6 @@
 from setuptools import setup
 
-APP = ['DiscountedPrice.py']
+APP = ['Discounted_Price.py']
 OPTIONS = { 
 'argv_emulation': True,
 }
